@@ -1,6 +1,8 @@
 ### Welcome! 👋🏻
 ----------
- Hello! My name is Lucas Bertan and I am currently a Computer Engineering student.🖥️ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertanbee&show_icons=true&icon_color=0c0c0c&text_color=1b1b1b&bg_color=60,003bc0,0048ea,003e95&title_color=0c0c0c)](https://github.com/anuraghazra/github-readme-stats)
+ Hello! My name is Lucas Bertan and I am currently a Computer Engineering student.🖥️ 
+ 
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertanbee&show_icons=true&icon_color=0c0c0c&text_color=1b1b1b&bg_color=60,003bc0,0048ea,003e95&title_color=0c0c0c)](https://github.com/anuraghazra/github-readme-stats)
  #### My interests
 
  - Artificial intelligence🦾;
@@ -10,10 +12,11 @@
  - NFTs and virtual economy🤖.
 
 #### Daily Technologies
- -Reacts 💻;
- -React Native 📱;
- -Node ⏱;
- -ThreeJS 🎲;
+ - Reacts 💻;
+ - React Native 📱;
+ - Node ⏱;
+ - ThreeJS 🎲;
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertanbee&layout=compact&bg_color=60,003bc0,0048ea,003e95&text_color=000&title_color=0c0c0c)](https://github.com/anuraghazra/github-readme-stats)
 
