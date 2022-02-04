@@ -11,7 +11,7 @@
  - ### Artificial intelligence🦾;
  - ### 3D web development👩‍💻🛩;
  - ### Computer Engineering applied to agriculture🚜;
- - ### Technological challenges in developing countries🇧🇷;
+ - ### Technological obstacles in developing countries🇧🇷;
  - ### NFTs and virtual economy🤖.
 
 ## Daily Technologies
