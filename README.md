@@ -1,18 +1,25 @@
-### Hi there 👋
+### Welcome! 👋🏻
+----------
+ Hello! My name is Lucas Bertan and I am currently a Computer Engineering student.🖥️ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertanbee&show_icons=true&icon_color=0c0c0c&text_color=1b1b1b&bg_color=60,003bc0,0048ea,003e95&title_color=0c0c0c)](https://github.com/anuraghazra/github-readme-stats)
+ #### My interests
 
-<!--
-**bertanbee/bertanbee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Artificial intelligence🦾;
+ - 3D web development👩‍💻🛩;
+ - Computer Engineering applied to agriculture🚜;
+ - Technological challenges in developing countries🇧🇷;
+ - NFTs and virtual economy🤖.
 
-Here are some ideas to get you started:
+#### Daily Technologies
+ -Reacts 💻;
+ -React Native 📱;
+ -Node ⏱;
+ -ThreeJS 🎲;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertanbee&layout=compact&bg_color=60,003bc0,0048ea,003e95&text_color=000&title_color=0c0c0c)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertanbee&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertanbee&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+-----------------
+
+### Thank you for the visit! 😄
+--------------- 
+
+##### For more information: https://www.lucasbertan.com.br/
