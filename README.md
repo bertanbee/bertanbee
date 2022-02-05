@@ -16,7 +16,7 @@
  - ### NFTs and virtual economy🤖.
 
 ## Daily Technologies
- - ### Reacts 💻;
+ - ### React 💻;
  - ### React Native 📱;
  - ### Node ⏱;
  - ### ThreeJS 🎲;
