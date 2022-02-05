@@ -1,4 +1,4 @@
-![Alt text](https://github.com/bertanbee/bertanbee/blob/main/banner.png)
+![Alt text](https://github.com/bertanbee/bertanbee/blob/main/bannerprofilereadme.png)
 
 ## Welcome! 👋🏻
 
