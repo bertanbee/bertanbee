@@ -1,6 +1,6 @@
-![Alt text](https://github.com/bertanbee/bertanbee/blob/main/bannerprofilereadme.png)
-
 ## Welcome! 👋🏻
+
+![Alt text](https://github.com/bertanbee/bertanbee/blob/main/bannerprofilereadme.png)
 
 ###  Hello! My name is Lucas Bertan and I am currently a Computer Engineering student.🖥️ 
  
