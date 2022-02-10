@@ -17,7 +17,7 @@
 
 ## Daily Technologies
  - ### React 💻;
- - ### React Native 📱;
+ - ### React Native 📱; 
  - ### Node ⏱;
  - ### ThreeJS 🎲;
 
