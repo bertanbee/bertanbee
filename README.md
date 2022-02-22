@@ -24,4 +24,4 @@
 
 ## Thank you for the visit! 😄
 
-### For more information: https://www.en.lucasbertan.com.br/
+### For more information: https://en.lucasbertan.com.br/
