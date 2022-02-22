@@ -2,7 +2,7 @@
 
 ![Alt text](https://github.com/bertanbee/bertanbee/blob/main/bannerProfileBanner.png)
 
-###  Hello! My name is Lucas Bertan and I am currently a Computer Engineering student.🖥️ 
+###  Hello! My name is Lucas Bertan and I am currently a Computer Engineering student at the University of São Paulo.🖥️ 
 
 ------------
 
