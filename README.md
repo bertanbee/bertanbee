@@ -2,16 +2,16 @@
 
 ![Alt text](https://github.com/bertanbee/bertanbee/blob/main/bannerProfileBanner.png)
 
-###  Hello! My name is Lucas Bertan and I am currently a Computer Engineering student at the University of São Paulo.🖥️ 
+###  Hello! My name is Lucas Bertan and I am currently a Computer Engineering student at the University of São Paulo, also a software team member at SkyRats Intelligent Drones.🖥️ 
 
 ------------
 
  ## My interests
 
- - ### Artificial intelligence🦾;
- - ### 3D web development👩‍💻🛩;
  - ### Computer Engineering applied to agriculture🚜;
  - ### Technological obstacles in developing countries🇧🇷;
+ - ### Artificial intelligence🦾;
+ - ### 3D web development👩‍💻🛩;
  - ### NFTs and virtual economy🤖.
 
 ## Daily Technologies
