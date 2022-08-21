@@ -20,6 +20,7 @@
  - ### Node ⏱;
  - ### ThreeJS 🎲;
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bertanbee&layout=compact&bg_color=60,003bc0,0048ea,003e95&text_color=000&title_color=0c0c0c&hide_border=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertanbee&layout=compact&bg_color=60,003bc0,0048ea,003e95&text_color=000&title_color=0c0c0c&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Thank you for the visit! 😄
